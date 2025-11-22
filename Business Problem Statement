@@ -1,0 +1,13 @@
+Problem Statement :
+
+A fast-growing pizza restaurant chain has been experiencing noticeable shifts in customer ordering patterns across different days, hours, pizza categories, and sizes. Despite steady demand, the management team lacked data-driven clarity on which products performed well, when orders peaked, and how much revenue each segment contributed. As a result, decisions related to inventory, staffing, and menu optimisation were being made without a clear analytical foundation.
+To improve operational efficiency and profitability, the restaurant initiated a sales analysis project aimed at understanding key business metrics and uncovering ordering trends. The objective was to calculate essential KPIs such as total revenue, average order value, total pizzas sold, total orders, and average pizzas per order—and visualise patterns through daily trends, hourly trends, category-wise and size-wise sales, and best/worst-performing pizzas.
+This analysis will help the business identify customer preferences, optimise resources, and make informed menu and marketing decisions backed by real data.
+
+Business Needs:
+1. Identify daily and monthly order trends to improve staffing and operations.
+2. Understand which pizza categories and sizes contribute most to sales.
+3. Compare top-performing vs. underperforming pizzas.
+4. Track core KPIs including revenue, orders, pizzas sold, and AOV.
+5. Use data-driven insights to optimise menu strategy, promotions, and inventory.
+
